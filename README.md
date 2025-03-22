@@ -78,7 +78,7 @@ You can also follow us on Twitter at [@joinFAUN](https://twitter.com/joinFAUN) a
 
 ## Your Feedback Matters
 
-Countless hours have been poured into preparing and developing *End-to-End Kubernetes with Rancher, RKE2, K3s, Fleet, Longhorn, and NeuVector*, aiming to provide you with the best knowledge and tools to master this powerful ecosystem. Your feedback is invaluable to me.
+Countless hours have been poured into preparing and developing *DevSecOps in Practice*, aiming to provide you with the best knowledge and tools to master this powerful ecosystem. Your feedback is quite literally a gift that can help me refine this guide and make it even better.
 
 I would love to hear your thoughts and suggestions. Your feedback will help me improve this guide and create better content in the future. Your insights could also light the way for others! If you feel I've achieved my goal and this guide has been valuable to you, I'd be deeply honored if you shared your experience with a thoughtful review on the marketplace where you acquired this book, on social media, or directly with me via email (community@faun.dev).
 
